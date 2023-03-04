@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ExplisitIntentApps</string>
+    <string name="pindah_activity">Pindah Activity</string>
+    <string name="ini_adalah_move_activity">Ini adalah move activity</string>
+    <string name="pindah_dengan_data">Pindah dengan Data</string>
+    <string name="pindah_dengan_object">Pindah dengan object</string>
+    <string name="text_object_receiver">Text Object Receiver</string>
+    <string name="pindah_dengan_implicit_intent">Pindah dengan implicit Intent</string>
+    <string name="visit_kevin_tekno">Visit Kevin Tekno</string>
+    <string name="choose_number">Choose number</string>
+    <string name="_50">50</string>
+    <string name="_100">100</string>
+    <string name="_150">150</string>
+    <string name="_200">200</string>
+    <string name="choose">Choose</string>
+    <string name="move_with_result">Pindah dengan hasil</string>
+    <string name="result_from_activity">Hasil dari activity</string>
+</resources>
